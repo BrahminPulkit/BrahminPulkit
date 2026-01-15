@@ -41,6 +41,7 @@ Marathwada Institute of Technology, India
 📅 2015 – 2018 | 63%
 
 💻 Technical Skills
+
 🔹 Programming & Tools
 
 Python, SQL, Java
