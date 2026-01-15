@@ -1,90 +1,143 @@
-# Hi, I'm Pulkit Sharma 👋
+👋 Hi, I’m Pulkit Sharma
+💻 IT Engineer | Data Analytics | Aspiring Data Scientist & ML Engineer
 
-### IT Engineer | Data Science & AI/ML Enthusiast
+I enjoy working with data, databases and I love turning raw, messy data into meaningful insights using SQL and Python.
 
-- 📫 Reach me at: **pulkits417@gmail.com**
-- 📞 Phone: **+91 7830554510**
-- 🔗 LinkedIn: [linkedin.com/in/pulkit-sharma-345425197](https://www.linkedin.com/in/pulkit-sharma-345425197/)
-- 🧑‍💻 Portfolio: [Add your portfolio link here]
+📫 Connect With Me
 
----
+📧 Email: pulkits417@gmail.com
 
-## 🚀 Professional Summary
+📞 Phone: +91 7830554510
 
-Motivated and skilled IT Engineer with over 1.6 years of experience in database management, including backup/restore, user access, and container deployment. Recently, I've expanded my expertise in Data Science and AI/ML technologies, focusing on Python and machine learning frameworks. Passionate about leveraging technology to create impactful solutions, I aim to drive innovation and solve complex problems through intelligent, scalable systems, supported by a robust IT engineering background.
+🔗 LinkedIn: linkedin.com/in/pulkit-sharma-345425197
 
----
+🧑‍💻 GitHub: github.com/BrahminPulkit
 
-## 🎓 Education
+🧠 LeetCode: leetcode.com/u/BrahminPulkit
 
-- **Master of Computer Applications (MCA)**  
-  Greater Noida Institute of Technology, Greater Noida, India  
-  Percentage: 67% • Duration: July 2018 – June 2020
+🚀 About Me
 
-- **Bachelor of Computer Applications (BCA)**  
-  Marathwada Institute of Technology, Bulandshahr, India  
-  Percentage: 63% • Duration: July 2015 – June 2018
+I am an IT Engineer with 1.6+ years of hands-on experience in database management, system operations, and infrastructure support.
+Over time, I developed a strong interest in data analysis, SQL, and machine learning, and I am actively building projects in EDA, data cleaning, and feature engineering.
 
----
+I enjoy solving real-world problems using:
 
-## 💻 Skills
+SQL for analysis & data cleaning
 
-### Technical Skills:
-- **Programming Languages & Tools:** Python, Java, SQL, Flask, Matplotlib, Seaborn, Scikit-learn
-- **Data Analysis & Visualization:** NumPy, Pandas
-- **Database & Infrastructure:** MySQL, MSSQL, Cloud Infrastructure
+Python for automation & ML
 
-### Soft Skills:
-- Team Collaboration • Coordination • Accountability • Effective Communication
+Structured thinking & clean logic
 
----
+My goal is to transition into a Data Analyst / Data Scientist / ML Engineer role.
 
-## 👨‍💻 Professional Experience
+🎓 Education
 
-### **IT Engineer**  
-**Indus Valley Partners, Noida, India**  
-**October 2022 – March 2024**  
-- Managed installation, configuration, backup, restoration, and optimization of databases such as MySQL and MSSQL, leading to a 25% improvement in query response times.
-- Collaborated with development and operations teams to streamline CI/CD processes, enhancing automation and deployment lifecycles.
+🎓 Master of Computer Applications (MCA)
+Greater Noida Institute of Technology, India
+📅 2018 – 2020 | 67%
 
----
+🎓 Bachelor of Computer Applications (BCA)
+Marathwada Institute of Technology, India
+📅 2015 – 2018 | 63%
 
-## 🛠️ Projects
+💻 Technical Skills
+🔹 Programming & Tools
 
-### **Vision – Automating RDP**
-- Developed a Python-based tool using PyAutoGUI to automate Remote Desktop Protocol (RDP) connections, improving efficiency and task management.
+Python, SQL, Java
 
-### **Flask-Based Web Application**
-- Built a user registration and login system integrated with Named Entity Recognition (NER) functionality using Flask.
+Flask, Streamlit
 
-### **Flight SQL Analytics Dashboard**
-- Created an interactive dashboard using Streamlit for flight data analysis, featuring airline distribution, busy airport statistics, and daily flight frequency visualizations.  
-  **Technologies:** Plotly, SQL
+🔹 Data & Analytics
 
-### **Webcam Capture with OpenCV**
-- Designed a real-time webcam capture system with features such as video streaming, image capturing, and facial recognition using Python and OpenCV.
+Data Cleaning & EDA
 
----
+Feature Engineering
 
-## 📜 Certifications & Courses
+NumPy, Pandas
 
-- **Data Structures and Algorithms using Java**  
-  Coding Blocks | Noida, India | January 2019
+Matplotlib, Seaborn
 
----
+🔹 Databases & Infra
 
-## 🔗 Additional Profiles
+MySQL, MSSQL
 
-- **LeetCode:** [leetcode.com/u/BrahminPulkit](https://leetcode.com/u/BrahminPulkit/)
-- **GitHub:** [github.com/BrahminPulkit](https://github.com/BrahminPulkit)
+Backup & Restore
 
----
+User Access Management
 
-### ⚡ Fun Fact:  
-I love solving problems and building tools that make life easier!
+CI/CD Basics
+
+🔹 Soft Skills
+
+Problem Solving
+
+Clear Communication
+
+Team Collaboration
+
+Ownership & Accountability
+
+👨‍💻 Professional Experience
+IT Engineer
+
+Indus Valley Partners – Noida, India
+🗓️ Oct 2022 – Mar 2024
+
+Managed MySQL & MSSQL databases, including backup, restore, and access control.
+
+Improved query performance and system reliability through optimization.
+
+Worked closely with development and operations teams on deployment and CI/CD workflows.
+
+Gained strong exposure to production-level systems and data handling.
+
+🛠️ Projects
+📊 Laptop Price Analysis using SQL
+
+Cleaned and analyzed 1,300+ laptop records
+
+Performed EDA, outlier detection, and feature engineering
+
+Created features like PPI, Price Brackets, and Portability Score
+
+Focused on real-world questions like pricing, brand comparison, and specs impact
+
+🛫 Flight Data Analytics Dashboard
+
+Built an interactive Streamlit dashboard
+
+Analyzed airline distribution, busiest airports, and daily flight trends
+
+Tech: SQL, Plotly, Streamlit
+
+🤖 RDP Automation Tool
+
+Automated repetitive RDP tasks using Python & PyAutoGUI
+
+Improved productivity and reduced manual effort
+
+🌐 Flask Web Application
+
+Developed a login & registration system
+
+Integrated Named Entity Recognition (NER) functionality
 
 
----
+📜 Certifications
 
-⭐️ From [BrahminPulkit](https://github.com/BrahminPulkit)
-Your content here
+Data Structures & Algorithms using Java
+Coding Blocks, Noida (2019)
+
+🌱 Currently Learning
+
+Advanced SQL (Window Functions, Performance)
+
+Machine Learning with Python
+
+Data Science workflows
+
+GitHub & CI/CD for Data Projects
+
+⚡ Fun Fact
+
+I love breaking complex problems into simple logic — especially when working with data 😄
