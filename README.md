@@ -1,4 +1,4 @@
-👋 Hi, I’m Pulkit Sharma
+###👋 Hi, I’m Pulkit Sharma
 💻 IT Engineer | Data Analytics | Aspiring Data Scientist & ML Engineer
 
 I enjoy working with data, databases and I love turning raw, messy data into meaningful insights using SQL and Python.
@@ -110,12 +110,6 @@ Built an interactive Streamlit dashboard
 Analyzed airline distribution, busiest airports, and daily flight trends
 
 Tech: SQL, Plotly, Streamlit
-
-🤖 RDP Automation Tool
-
-Automated repetitive RDP tasks using Python & PyAutoGUI
-
-Improved productivity and reduced manual effort
 
 🌐 Flask Web Application
 
