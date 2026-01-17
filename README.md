@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Pulkit Sharma
+### 👋 Hi, I’m Pulkit Sharma
 
-## 💻 IT Engineer | Data Analytics | Aspiring Data Scientist & ML Engineer
+### 💻 IT Engineer | Data Analytics | Aspiring Data Scientist & ML Engineer
 
 I enjoy working with data and databases, and I love turning raw, messy data into meaningful insights using SQL and Python.
 
